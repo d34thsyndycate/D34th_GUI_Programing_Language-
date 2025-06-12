@@ -1,0 +1,80 @@
+
+💀 D34TH GUI Programming Language - Tutorial (v1.0)
+----------------------------------------------------
+Style: Hinglish | GUI-Based | Custom Syntax
+Interface: Editor + Console (auto error check every 1 sec)
+
+🟢 1. Variables Kaise Banaye (Set karo)
+----------------------------------------
+set karo naam: Pranjit
+set karo age: 21
+set karo city: Guwahati
+
+🟢 2. User Se Input Lo (Pucho)
+-------------------------------
+pucho username
+pucho password
+
+🟢 3. If Condition Lagao (Agar ... Toh)
+----------------------------------------
+agar age > 18 toh
+    set karo status: Adult
+nahi toh
+    set karo status: Minor
+
+🟢 4. Loop Chalao (Jab tak ... Tab tak)
+----------------------------------------
+set karo x: 1
+
+jab tak x <= 5 tab tak
+    set karo x: x + 1
+
+🟢 5. Function Banao Aur Chalao
+-------------------------------
+banao function hello()
+    set karo naam: ChatGPT
+    pucho user
+    agar user == naam toh
+        set karo reply: "Hello!"
+
+chalao function hello()
+
+🟢 6. Math Operations
+----------------------
+set karo a: 10
+set karo b: 5
+set karo c: a + b
+
+🟢 7. Networking Specials (Custom Commands)
+--------------------------------------------
+mac address badlo
+scan chalu kar
+fake ip lagao
+
+📦 GUI Tools Ka Use Kaise Kare:
+---------------------------------
+🗂 Load   – File se koi `.d34th` script load karo
+💾 Save   – Script ko save karo
+▶️ Run    – Console mein output dekho
+⚡ Auto Error Check – Har second live syntax validate karta hai
+
+🛠 Future Ideas (Next Steps):
+------------------------------
+- Real execution support
+- Code to Python conversion
+- Export to `.py` or `.exe`
+- GUI dark themes
+- Real hacking modules
+
+🔚 Ready-Made Example Script:
+------------------------------
+set karo naam: Pranjit
+pucho user
+
+agar user == naam toh
+    set karo message: "Welcome, Pranjit!"
+nahi toh
+    set karo message: "Access Denied."
+
+mac address badlo
+fake ip lagao
